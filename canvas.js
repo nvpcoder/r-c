@@ -179,7 +179,7 @@ var ParticlePool = (function () {
   // Load background image
   const bgImage = new Image();
   bgImage.src =
-    "https://pin.it/1FAxee3SZ"; // thay bằng URL thật
+    "https://i.postimg.cc/nLYX8QRd/6fa411c8-238c-40ad-a3f3-ea00a68e49a1.jpg"; // thay bằng URL thật
   let bgLoaded = false;
   bgImage.onload = () => {
     bgLoaded = true;
