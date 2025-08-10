@@ -109,7 +109,7 @@ function createFallingText(initial = false) {
 function createHeart(initial = false, initialY = -50) {
     const heart = document.createElement("div");
     heart.className = "heart";
-    heart.innerHTML = `<img src="${images[Math.floor(Math.random() * images.length)]}" alt="♡" />`;//"♡";
+    heart.innerHTML = `<img src="https://www.facebook.com/6fa411c8-238c-40ad-a3f3-ea00a68e49a1" alt="♡" />`;//"♡";
 
     const startX = Math.random() * window.innerWidth;
     const zLayer = Math.random() * 400 - 200;
