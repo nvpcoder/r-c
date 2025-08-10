@@ -10,11 +10,11 @@ const texts = [
 ];
 
 let images = [
-    "https://www.facebook.com/6fa411c8-238c-40ad-a3f3-ea00a68e49a1",
-    "https://www.facebook.com/6fa411c8-238c-40ad-a3f3-ea00a68e49a1",
-    "https://www.facebook.com/6fa411c8-238c-40ad-a3f3-ea00a68e49a1",
-    "https://www.facebook.com/6fa411c8-238c-40ad-a3f3-ea00a68e49a1",
-    "https://www.facebook.com/6fa411c8-238c-40ad-a3f3-ea00a68e49a1"
+    "https://pin.it/342JsDpJZ",
+    "https://pin.it/342JsDpJZ",
+    "https://pin.it/342JsDpJZ",
+    "https://pin.it/342JsDpJZ",
+    "https://pin.it/342JsDpJZ"
 ];
 
 const scene = document.getElementById("scene");
