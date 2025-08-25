@@ -9,9 +9,6 @@ const texts = [
     "I Am Crazy About You"
     "I Miss You"
     "Love"
-    "💗"
-    "❤️"
-    "💕"
 ];
 
 let images = [
