@@ -4,11 +4,9 @@ const texts = [
     "I Adore You",
     "I Cherish You",
     "I Treasure You",
-    "I Appreciate You",
-    "I Am Fond of You",
+    "Love",
+    "I Miss You",
     "I Am Crazy About You"
-    "I Miss You"
-    "Love"
 ];
 
 let images = [
