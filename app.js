@@ -7,6 +7,11 @@ const texts = [
     "I Appreciate You",
     "I Am Fond of You",
     "I Am Crazy About You"
+    "I Miss You"
+    "Love"
+    "💗"
+    "❤️"
+    "💕"
 ];
 
 let images = [
